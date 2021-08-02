@@ -1,6 +1,6 @@
 # Bash-Projects
 
-Scipts for Linux systems. \n
+Scipts for Linux systems.
 
 ## ubuntuapts.sh
 
