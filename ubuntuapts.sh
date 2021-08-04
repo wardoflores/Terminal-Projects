@@ -1,30 +1,32 @@
 #!/bin/sh
 echo Installing/Upgrading packages...
-apt upgrade
+sudo apt upgrade
 echo Installing important terminal libraries
-apt install ncdu
-apt install tldr
-apt install autoclean
-apt install gufw
-apt install mlocate
-apt install speedtest-cli
-apt install imwheel
-apt install gedit
-apt install python3-pip
-apt install imagemagick
+sudo apt install ncdu
+sudo apt install tldr
+sudo apt install autoclean
+sudo apt install gufw
+sudo apt install mlocate
+sudo apt install speedtest-cli
+sudo apt install imwheel
+sudo apt install gedit
+sudo apt install python3-pip
+sudo apt install imagemagick
 pip install pywal
 echo Installing terminal hacking libraries
-apt install nmap
-apt install harvester
-apt install proxychains
+sudo apt install nmap
+sudo apt install harvester
+sudo apt install proxychains
 echo Installing Terminal games
-apt install fortune
-apt install pi
-apt install rig
-apt install sl
+sudo apt install fortune
+sudo apt install pi
+sudo apt install rig
+sudo apt install sl
+echo Installing Desktop libraries
+sudo apt install xfce4
 echo Installing Desktop Applications
-apt install plank
-apt install brave-browser
-apt install vlc
-apt install gimp
+sudo apt install plank
+sudo apt install brave-browser
+sudo apt install vlc
+sudo apt install gimp
 echo Cant install vscode and github desktop by Terminal alone.
