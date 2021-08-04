@@ -1,6 +1,10 @@
 #!/bin/sh
 echo Installing/Upgrading packages...
-sudo apt upgrade
+sudo apt update
+sudo apt upgrade -y
+sudo apt-get update
+sudo apt-get upgrade -y
+
 echo Installing important terminal libraries
 sudo apt install ncdu
 sudo apt install tldr
