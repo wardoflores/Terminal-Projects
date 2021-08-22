@@ -24,6 +24,7 @@ sudo apt install gedit
 sudo apt install python3-pip
 sudo apt install imagemagick
 pip install pywal
+sudo apt install neofetch
 echo.
 clear
 echo Installing terminal hacking libraries
