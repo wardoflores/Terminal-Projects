@@ -2,10 +2,14 @@
 
 Scipts for Linux systems.
 
-## ubuntuapts.sh
+## archpacmans.sh
 
-Package installer/updater automation.
+Package installer/updater automation for Arch.
 
 ## wslinstaller.bat
 
 WSL 2 Install guide.
+## ubuntuapts.sh
+
+Package installer/updater automation for Ubuntu.
+

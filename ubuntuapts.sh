@@ -13,6 +13,7 @@ echo Installing important terminal libraries
 echo.
 sudo apt install ncdu
 sudo apt install htop
+sudo apt install neofetch
 sudo apt install tldr
 sudo apt install autoclean
 sudo apt install mlocate
@@ -21,10 +22,13 @@ sudo apt install tmux
 sudo apt install imwheel
 sudo apt install speedtest-cli
 sudo apt install gedit
+sudo apt install i3
+sudo apt install lutris
+# sudo apt install wine
+# sudo apt install playonlinux
 sudo apt install python3-pip
 sudo apt install imagemagick
 pip install pywal
-sudo apt install neofetch
 echo.
 clear
 echo Installing terminal hacking libraries
