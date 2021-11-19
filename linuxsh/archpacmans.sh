@@ -17,6 +17,7 @@ pacman -S git
 pacman -S yay
 pacman -S flatpak
 pacman -S python-pip
+pacman -S tk
 pacman -S pavucontrol
 pacman -S alsa-utils
 pacman -S alsa-firmware

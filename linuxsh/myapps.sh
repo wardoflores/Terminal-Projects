@@ -44,10 +44,10 @@ echo root
 echo home
 echo wsl
 echo pyserver
-echo apache
-echo apacherun
-echo apachestop
-echo apachereboot
+# echo apache
+# echo apacherun
+# echo apachestop
+# echo apachereboot
 echo.
 rem Aliases
 doskey root=cd #
@@ -58,24 +58,24 @@ doskey wsl=wsl.exe
 # doskey apachestop=C:/Apache24/bin/httpd.exe -k stop
 # doskey apachereboot=C:/Apache24/bin/httpd.exe -k restart
 rem server scripts not in repo
-doskey pyserver=python "/home/joey/Joey-Repositories/Python-Projects/completed/server/server.py"
+doskey pyserver=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/server/server.py"
 rem Repo scripts
 doskey organize=CALL "/home/joey/Joey-Repositories/Python-Projects/completed/fileorganizer/organize.bat"
-doskey calculator=python "/home/joey/Joey-Repositories/Python-Projects/completed/calculator/simplecalculator.py"
-doskey clicker=python "/home/joey/Joey-Repositories/Python-Projects/completed/autoclicker/clicker.py"
-doskey idleclicks=python "/home/joey/Joey-Repositories/Python-Projects/completed/autoclicker/idleclicker.py"
-doskey idlecursor =python "/home/joey/Joey-Repositories/Python-Projects/completed/idlecursor/idlecursor.py"
-doskey idlescroller =python "/home/joey/Joey-Repositories/Python-Projects/completed/idlescroller/idlescroller.py"
-doskey textspam=python "/home/joey/Joey-Repositories/Python-Projects/completed/spambot/spam.py"
-doskey filespam=python "/home/joey/Joey-Repositories/Python-Projects/completed/spambot/filespam.py"
-doskey keylogger=python "/home/joey/Joey-Repositories/Python-Projects/completed/keylogger/keylogger.py"
-doskey birthday=python "/home/joey/Joey-Repositories/Python-Projects/completed/birthdaywisher/happybirthday.py"
-doskey meditate=python "/home/joey/Joey-Repositories/Python-Projects/completed/meditation/meditate.py"
-doskey netspeed=python "/home/joey/Joey-Repositories/Python-Projects/completed/internetspeed/speedprinter.py"
-doskey wolfram=python "/home/joey/Joey-Repositories/Python-Projects/completed/wolramalpha/apicaller.py"
-doskey voassist=python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/voasst.py"
-doskey votyper=python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/voicetyper.py"
-doskey TTS=python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/TTS.py"
+doskey calculator=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/calculator/simplecalculator.py"
+doskey clicker=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/autoclicker/clicker.py"
+doskey idleclicks=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/autoclicker/idleclicker.py"
+doskey idlecursor =/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/idlecursor/idlecursor.py"
+doskey idlescroller =/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/idlescroller/idlescroller.py"
+doskey textspam=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/spambot/spam.py"
+doskey filespam=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/spambot/filespam.py"
+doskey keylogger=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/keylogger/keylogger.py"
+doskey birthday=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/birthdaywisher/happybirthday.py"
+doskey meditate=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/meditation/meditate.py"
+doskey netspeed=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/internetspeed/speedprinter.py"
+doskey wolfram=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/wolramalpha/apicaller.py"
+doskey voassist=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/voasst.py"
+doskey votyper=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/voicetyper.py"
+doskey TTS=/bin/python "/home/joey/Joey-Repositories/Python-Projects/completed/voiceassistant/TTS.py"
 rem API scripts
 doskey meet=CALL "/home/joey/Joey-Repositories/Python-Projects/completed/selenium/meetauto.bat"
 doskey twitterbot=CALL "/home/joey/Joey-Repositories/Python-Twitter-Bot/twitterbot.bat"

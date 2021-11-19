@@ -17,7 +17,7 @@ pip install tweepy
 pip install praw
 pip install gTTS
 pip install wolframalpha
-pip install speedtest 
+pip install speedtest-cli
 pip install google
 pip install wikipedia
 pip install gkeepapi
