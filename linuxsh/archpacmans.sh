@@ -32,10 +32,6 @@ pacman -S libx11
 pacman -S sdl2
 pacman -S portaudio
 pacman -S wayland-protocols
-
-pacman -S wine
-pacman -S lutris
-pacman -S playonlinux
 echo.
 clear
 echo Installing terminal hacking libraries
@@ -114,6 +110,11 @@ echo.
 pacman -S github-desktop
 pacman -S discord
 pacman -S drawio-desktop-bin
+pacman -S wine
+pacman -S proton
+pacman -S steam
+pacman -S lutris
+pacman -S playonlinux
 echo.
 clear
 echo Installing/Upgrading packages...
