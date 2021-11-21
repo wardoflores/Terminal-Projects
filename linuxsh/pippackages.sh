@@ -1,5 +1,4 @@
 #!/bin/zsh
-echo off
 echo Installing Standard packages
 #pip install py2exe
 #pip install python-docx
