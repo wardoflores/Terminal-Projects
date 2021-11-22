@@ -1,12 +1,12 @@
 #!/bin/zsh
 su
 echo Installing/Upgrading packages...
-echo.
+echo
 pacman -Syu
-echo.
+echo
 clear
 echo Installing important terminal libraries
-echo.
+echo
 pacman -S ncdu
 pacman -S btop
 pacman -S neofetch
@@ -32,25 +32,25 @@ pacman -S libx11
 pacman -S sdl2
 pacman -S portaudio
 pacman -S wayland-protocols
-echo.
+echo
 clear
 echo Installing terminal hacking libraries
-echo.
+echo
 pacman -S nmap
 pacman -S proxychains
 yay -S sherlock
-echo.
+echo
 clear
 echo Installing Terminal games
-echo.
+echo
 pacman -S fortune
 pacman -S pi
 pacman -S rig
 pacman -S sl
-echo.
+echo
 clear
 echo Installing Desktop libraries
-echo.
+echo
 pacman -S sway
 pacman -S swayimg
 pacman -S thunar
@@ -62,10 +62,10 @@ pacman -S grim
 pacman -S slurp
 pacman -S wl-clipboard
 pacman -S projectm-pulseaudio
-echo.
+echo
 clear
 echo Installing Desktop Applications
-echo.
+echo
 pacman -S spotify
 pacman -S mpv
 pacman -S libreoffice
@@ -81,32 +81,32 @@ yay -S obsidian
 yay -S waydroid
 yay -S obs-studio
 yay -S gpick
-echo.
+echo
 clear
 echo Installing Terminal games
-echo.
+echo
 pacman -S cmatrix
 pacman -S sl
 yay -S rig
 yay -S aview
-echo.
+echo
 clear
 echo Installing Wayland screenshare libraries
-echo.
+echo
 pacman -S xdg-desktop-portal-wlr
 pacman -S libpipewire02
-echo.
+echo
 clear
 echo Installing Xwayland libraries
-echo.
+echo
 pacman -S xorg-xwayland
 pacman -S xorg-xlsclients
 pacman -S qt5-wayland
 pacman -S glfw-wayland
-echo.
+echo
 clear
 echo Installing Xwayland Applications
-echo.
+echo
 pacman -S github-desktop
 pacman -S discord
 pacman -S drawio-desktop-bin
@@ -115,10 +115,11 @@ pacman -S proton
 pacman -S steam
 pacman -S lutris
 pacman -S playonlinux
-echo.
+echo
 clear
 echo Installing/Upgrading packages...
-echo.
+echo
 pacman -Syu
-echo.
+echo
 clear
+exit
