@@ -85,4 +85,4 @@ Choose an option:  "
     esac
 }
 
-dsprompt
+dsprompt()
