@@ -13,7 +13,7 @@ pip install pyautogui
 pip install pynput
 pip install asyncio
 pip install speechrecognition
-pip intall pywal
+pip install pywal
 echo Installing API packages
 pip install discord
 pip install tweepy
