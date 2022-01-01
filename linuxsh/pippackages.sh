@@ -30,7 +30,9 @@ echo Installing Audio playing packages
 pip install spotdl
 pip install playsound
 pip install pyaudio
+
 ## Colors ##
+
 ESC=$(printf '\033') RESET="${ESC}[0m" BLACK="${ESC}[30m" RED="${ESC}[31m"
 GREEN="${ESC}[32m" YELLOW="${ESC}[33m" BLUE="${ESC}[34m" MAGENTA="${ESC}[35m"
 CYAN="${ESC}[36m" WHITE="${ESC}[37m" DEFAULT="${ESC}[39m"
