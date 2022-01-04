@@ -46,7 +46,7 @@ redprint() { printf "${RED}%s${RESET}\n" "$1"; }
 yellowprint() { printf "${YELLOW}%s${RESET}\n" "$1"; }
 magentaprint() { printf "${MAGENTA}%s${RESET}\n" "$1"; }
 cyanprint() { printf "${CYAN}%s${RESET}\n" "$1"; }
-dsprompt() {
+dtasciprompt() {
     echo -ne "
 $(magentaprint "Would you like to install Data Science Packages? (Takes longer time.)")
 $(greenprint '1)') Continue
@@ -87,5 +87,4 @@ Choose an option:  "
         ;;
     esac
 }
-
-dsprompt()
+dtasciprompt
