@@ -12,6 +12,7 @@ echo Installing Input packages
 pip install pyautogui
 pip install pynput
 pip install asyncio
+pip install ipykernel
 pip install speechrecognition
 pip install pywal
 echo Installing API packages
