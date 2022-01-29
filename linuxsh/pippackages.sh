@@ -28,6 +28,7 @@ pip install gkeepapi
 echo Installing Audio playing packages
 #pip install ffmpeg
 #pip install youtube-dl
+pip install yt-dlp
 pip install spotdl
 pip install playsound
 pip install pyaudio
