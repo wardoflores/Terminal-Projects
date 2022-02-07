@@ -15,6 +15,9 @@ pip install asyncio
 pip install ipykernel
 pip install speechrecognition
 pip install pywal
+echo Installing Webscraping packages
+pip install beautifulsoup4
+pip install lxml
 echo Installing API packages
 pip install discord
 pip install tweepy
