@@ -5,4 +5,6 @@
 # Created YYYY-MM-DD
 # Copyright (c) 2023 wardoflores
 #
-# This script adds the license alike the first 6 lines of this shell script. TODO
+# Appended from the crontab in Desktop
+
+

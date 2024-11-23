@@ -7,4 +7,6 @@
 #
 # watch -n540 -x ./GitHub/Terminal-Projects/workspace3per9min.sh
 
-{ echo key super+3; echo key ctrl+tab; } | dotool
+#{ echo key super+3; echo key ctrl+tab; } | dotool
+
+{ echo key super+3; } | dotool
