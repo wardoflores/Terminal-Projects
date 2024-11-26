@@ -9,10 +9,10 @@ month=$(date +"%m")
 current_time=$(date +"%H:%M")
 
 # Define the file path based on the current date
-file_path=~/repository/Obsidian-Personal-Vault/03\ Record/$year/$month/$current_date.md
+file_path=~/repository/Notes/03\ Record/$year/$month/$current_date.md
 
 # Ensure the directory exists
-mkdir -p ~/repository/Obsidian-Personal-Vault/03\ Record/$year/$month
+mkdir -p ~/repository/Notes/03\ Record/$year/$month
 
 # Check if arguments are passed
 if [ $# -gt 0 ]; then
