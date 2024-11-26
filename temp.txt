@@ -1,0 +1,53 @@
+  381  chmod -x storage/shared/repository/Terminal-Projects/speak.sh
+  382  speak
+  386  speak
+  390  speak
+  432  speak opis yo
+  435  speak opis yo
+  436  speak opis on phone yo
+  438  speak opis phone yooo
+  440  speak Errand
+  443  cp ../Terminal-Projects/speak.sh ../Terminal-Projects/speaktermux.sh
+  444  vim ../Terminal-Projects/speaktermux.sh
+  450  speak yo opis on imoogi yo
+  451  speak yo opis on opis yo
+  456  speak yo yo yo opis on imoogi yo
+  457  speak yo yo yo yo opis on opis pls work yo
+  459  speak good enough fuck*ng relief.
+  460  speak good enough fucking relief.
+  461  speak rain start on Errand hahahahahaha
+  462  speak key is there Checking though hahaha
+  463  speak KneadingDough Resource Manufacturing
+  464  speak tryc
+  610  speak yippee Comfort now no Obstacle in Phone Speak
+  612  speak yo opis here
+  615  vim ShellScripts/speaktermux.sh
+  618  speak oohh maybe just Compiling zsh
+  622  speak zdh Configuration wehp
+  625  speak pls work
+  626  speak yeeesssss!
+  627  speak now cron auto git to main esp on termux
+  628  speak thought to Liabilities for Inventory...
+  629  speak only Merchandising though, Design.
+  630  speak Freezing Skeeping with Banket, Ngihtmare Manipulation of Relxation into Coercion from Abuse, or mybe just Increasing Obstacle Visibility
+  631  speak Returning, Urinating, and Refilling
+  632  speak now Boiling, damn that was the Best Freezing yet and it's just Night
+  633  speak now Boiling, damn that was the Best Freezing yet and its just night
+  634  speak wet dreams and wakefulness in Silence Great Breathing, Self Awareness of pErpetrator room 4, and it did Coughing hhhahahahaa
+  635  speak Coitus after Encounter Crischelle then a Mayumi Tuboro type Relaxation to her grinding self cuddling into it then yeah 3some npt before the creature I Fended elderly coal miner pErpetrator attempts to insert, Self Great Heterosexuality though
+  636  speak goggo errand self Opinion Perpetrator in Fear, not Self
+  637  speak returning
+  644  speak Flatulence damn
+  645  speak crom da git for Termux speak
+  647  speak nfs for MediaPlayer and Music Playlist Control, no more Subscription. Gogogogo Deadline.
+  648  speak Urinating go
+  649  speak Sting finally
+  650  speak Returning
+  707  speak yoyoyo
+  720  vim speaktermux.sh
+  727  speak weewee woh. woh.
+  738  history | grep speak
+  739  history | grep speak | less
+  740  history | grep speak | vim
+  741  vim | history | grep speak |
+  742  cat | history | grep speak | temp.txt
